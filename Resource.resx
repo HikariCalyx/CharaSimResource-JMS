@@ -1666,4 +1666,1096 @@
   <data name="UIWindow2_img_MiniMap_MaxMapMirror_w" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIWindow2.img.MiniMap.MaxMapMirror.w.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_abilityTitle_epic_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.abilityTitle.epic.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_abilityTitle_legendary_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.abilityTitle.legendary.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_abilityTitle_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.abilityTitle.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_abilityTitle_rare_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.abilityTitle.rare.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_abilityTitle_unique_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.abilityTitle.unique.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_epic_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.metierLine.activated.0.epic.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_legendary_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.metierLine.activated.0.legendary.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_rare_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.metierLine.activated.0.rare.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_unique_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.metierLine.activated.0.unique.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_ability_metierLine_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.ability.metierLine.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.8.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.9.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_x" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.x.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_y" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.y.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_attackPowerFont_z" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.attackPowerFont.z.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonability_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonability.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonability_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonability.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonability_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonability.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonability_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonability.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonfame_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonfame.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonfame_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonfame.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonfame_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonfame.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonfame_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonfame.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhelp_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhelp.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhelp_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhelp.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhelp_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhelp.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhelp_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhelp.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhyper_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhyper.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhyper_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhyper.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhyper_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhyper.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_buttonhyper_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.buttonhyper.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvasattackBack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvasattackBack.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvasattackFont" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvasattackFont.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvasdefenseFont" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvasdefenseFont.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvasforceCover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvasforceCover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvashighlightLong" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvashighlightLong.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvashighlightShort" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvashighlightShort.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvasmainStatFont" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvasmainStatFont.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvasutilityBack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvasutilityBack.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_canvasutilityFont" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.canvasutilityFont.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_canvasdisabledCover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.canvasdisabledCover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000400.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000401.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000402" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000402.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000403" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000403.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000404" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000404.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000405" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000405.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000406" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000406.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000409" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000409.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000410" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000410.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000412" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000412.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000413" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000413.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000414" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000414.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000416" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000416.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000419" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000419.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000420" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000420.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000421" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000421.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000422" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.HyperStat.Window.statList.80000422.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_Stat_1_titleImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.Stat.1.titleImage.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_Stat_1_titleImageDF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.Stat.1.titleImageDF.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_Stat_1_titleImageSE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.Stat.1.titleImageSE.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_detailStat_Stat_1_titleImageTF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.detailStat.Stat.1.titleImageTF.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonclose_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonclose.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonclose_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonclose.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonclose_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonclose.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonclose_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonclose.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonguild_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonguild.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonguild_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonguild.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonguild_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonguild.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonguild_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonguild.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonmyhome_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonmyhome.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonmyhome_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonmyhome.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonmyhome_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonmyhome.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttonmyhome_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttonmyhome.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttontoggleDetail_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttontoggleDetail.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttontoggleDetail_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttontoggleDetail.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttontoggleDetail_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttontoggleDetail.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_buttontoggleDetail_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.buttontoggleDetail.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_canvasblackList" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.canvasblackList.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_canvasmarry" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.canvasmarry.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_common_main_layername" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.common.main.layername.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_0_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.0.icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_1_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.1.icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_1_image_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.1.image.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_2_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.2.icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_2_image_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.2.image.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_3_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.3.icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_3_image_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.3.image.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_4_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.4.icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_4_image_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.4.image.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_5_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.5.icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_5_image_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.5.image.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_6_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.6.icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_customBackground_6_image_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.customBackground.6.image.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detail_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detail.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detail_layerstat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detail.layerstat.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_ability_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.ability.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_ability_buttonreset_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.ability.buttonreset.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_ability_buttonreset_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.ability.buttonreset.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_ability_buttonreset_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.ability.buttonreset.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_ability_buttonreset_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.ability.buttonreset.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_backgrnd1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.backgrnd1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAuto.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAuto.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAuto.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAuto.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoDex.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoDex.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoDex.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoDex.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoStr.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoStr.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoStr.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoStr.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon1.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon1.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon1.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon1.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon2.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon2.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon2.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon2.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon3.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon3.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon3.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonapDistribution.buttonapAutoXenon3.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentNum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvascurrentNum.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentNum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvascurrentNum1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponConstant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvascurrentWeaponConstant.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponExpertise" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvascurrentWeaponExpertise.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponType" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvascurrentWeaponType.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvasextraNum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvasextraNum.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvaspercentNum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvaspercentNum.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_AddonstatInfo_canvasstandardNum" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.AddonstatInfo.canvasstandardNum.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_animationapDistribution_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.animationapDistribution.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_animationapDistribution_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.animationapDistribution.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_animationapDistribution_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.animationapDistribution.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_animationapDistribution_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.animationapDistribution.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_animationapDistribution_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.animationapDistribution.4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_animationapDistribution_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.animationapDistribution.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_animationapDistribution_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.animationapDistribution.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonapDistribution_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonapDistribution.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonapDistribution_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonapDistribution.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonapDistribution_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonapDistribution.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonapDistribution_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonapDistribution.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonlvUpHp_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonlvUpHp.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonlvUpHp_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonlvUpHp.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonlvUpHp_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonlvUpHp.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_buttonlvUpHp_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.buttonlvUpHp.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_canvascover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.canvascover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_canvasmainStatBack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.canvasmainStatBack.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_backgrnd0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.backgrnd0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_family_mori_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.family.mori.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_family_takeda_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.family.takeda.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_family_uesgi_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.family.uesgi.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_gauge_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.gauge.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_grade_f1_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.grade.f1.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_grade_f2_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.grade.f2.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_grade_f3_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.grade.f3.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_grade_f4_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.grade.f4.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_grade_f5_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.grade.f5.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.8.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.9.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_fame_number_s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.fame.number.s.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_backgrnd2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.backgrnd2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttoncancle.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttoncancle.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttoncancle.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttoncancle.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttonokay.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttonokay.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttonokay.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.popUp.buttonokay.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetApplication.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetApplication.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetApplication.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetApplication.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_checked_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage1.checked.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage1.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage1.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage1.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_checked_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage2.checked.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage2.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage2.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage2.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_checked_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage3.checked.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage3.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage3.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonpresetPage3.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonreset.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonreset.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonreset.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.buttonreset.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_detailStat_HyperStat_Window_presetSelected0_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.detailStat.HyperStat.Window.presetSelected0.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_canvashighlightCustom0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.canvashighlightCustom0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_canvashighlightCustom1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.canvashighlightCustom1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonclose_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonclose.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonclose_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonclose.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonclose_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonclose.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonclose_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonclose.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonconfirm_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonconfirm.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonconfirm_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonconfirm.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonconfirm_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonconfirm.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_buttonconfirm_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.buttonconfirm.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_canvascurrentBack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.canvascurrentBack.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_canvasselectedBack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.canvasselectedBack.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_canvasvacantIndex" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.canvasvacantIndex.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_base" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.scrollslot.enabled.base.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.scrollslot.enabled.thumb0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.scrollslot.enabled.thumb1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.local.main.customBackground.scrollslot.enabled.thumb2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_canvasprivacyCover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.canvasprivacyCover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_normal_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.normal.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_normal_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.normal.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_normal_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.normal.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_selected_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.selected.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_selected_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.selected.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_selected_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.selected.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detail_tabdetailTab_selected_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detail.tabdetailTab.selected.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailCash_canvascash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailCash.canvascash.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_canvasmaxLv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.canvasmaxLv.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_canvasslotCover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.canvasslotCover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_slotVector1_canvasslot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.slotVector1.canvasslot.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.8.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.9.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_lv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textDown.lv.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_+" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.+.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.8.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.9.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_arcane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.arcane.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_dex" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.dex.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_hp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.hp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_int" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.int.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_luk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.luk.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_str" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.ArcEquip.textUp.str.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_canvasgauge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.canvasgauge.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_canvasmaxLv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.canvasmaxLv.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_canvasslotCover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.canvasslotCover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_canvassymbolCover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.canvassymbolCover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_slotVector1_canvasslot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.slotVector1.canvasslot.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.8.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.9.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_lv" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textDown.lv.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_+" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.+.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.8.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.9.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_authentic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.authentic.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_dex" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.dex.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_hp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.hp.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_int" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.int.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_luk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.luk.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_str" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.AutEquip.textUp.str.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipClose.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipClose.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipClose.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipClose.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipOpen.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipOpen.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipOpen.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.buttonspecialEquipOpen.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_canvasdisabled" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.canvasdisabled.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_canvasequip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.canvasequip.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_dragonEquip_canvasdragon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.dragonEquip.canvasdragon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_hakuEquip_canvashaku" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.hakuEquip.canvashaku.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_mechanicEquip_canvasmechanic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.mechanicEquip.canvasmechanic.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_tabsymbolTab_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.tabsymbolTab.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_tabsymbolTab_normal_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.tabsymbolTab.normal.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_tabsymbolTab_selected_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.tabsymbolTab.selected.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_tabsymbolTab_selected_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.tabsymbolTab.selected.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailEquip_totemEquip_canvastotem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailEquip.totemEquip.canvastotem.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_canvasskill" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.canvasskill.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_canvasskill0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.canvasskill0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_canvasskillBlank" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.canvasskillBlank.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_base" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.scrollslot.enabled.base.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.scrollslot.enabled.thumb0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.scrollslot.enabled.thumb1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.scrollslot.enabled.thumb2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.tabtypeTab.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.tabtypeTab.normal.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.tabtypeTab.normal.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.tabtypeTab.selected.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.tabtypeTab.selected.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailSkill.tabtypeTab.selected.2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailStat_ability_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailStat.ability.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailStat_canvascover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailStat.canvascover.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailStat_canvasmainStatBack" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailStat.canvasmainStatBack.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_detailStat_HyperStat_Window_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.detailStat.HyperStat.Window.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonexchange_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonexchange.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonexchange_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonexchange.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonexchange_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonexchange.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonexchange_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonexchange.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonmyhome_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonmyhome.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonmyhome_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonmyhome.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonmyhome_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonmyhome.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonmyhome_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonmyhome.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonparty_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonparty.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonparty_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonparty.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonparty_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonparty.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonparty_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonparty.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityDown_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityDown.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityDown_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityDown.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityDown_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityDown.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityDown_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityDown.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityUp_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityUp.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityUp_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityUp.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityUp_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityUp.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UICharacterInfo_img_remote_main_buttonpopularityUp_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UICharacterInfo.img.remote.main.buttonpopularityUp.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
