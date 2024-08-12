@@ -2761,4 +2761,154 @@
   <data name="UIToolTip_img_Item_Equip_Job_expand2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIToolTip.img.Item.Equip.Job.expand2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_arcane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.arcane.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_numberRed_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.numberRed.9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_number_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.number.9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapArcaneForceUI_slash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapArcaneForceUI.slash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_authentic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.authentic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_numberRed_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.numberRed.9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_number_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.number.9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapAuthenticForceUI_slash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapAuthenticForceUI.slash.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_numberRed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.numberRed.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_numberRed_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.numberRed.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_numberRed_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.numberRed.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_numberRed_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.numberRed.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_numberRed_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.numberRed.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_numberRed_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.numberRed.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_number_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.number.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow4_img_MapStarForceUI_star" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow4.img.MapStarForceUI.star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

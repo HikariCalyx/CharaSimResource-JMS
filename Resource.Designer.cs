@@ -8777,6 +8777,506 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_arcane {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_arcane", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_slash {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_slash", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_authentic {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_authentic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_slash {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_slash", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_number_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_number_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_star {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_star", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_base {
             get {
                 object obj = ResourceManager.GetObject("VScr9_disabled_base", resourceCulture);
