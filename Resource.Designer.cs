@@ -3343,6 +3343,3680 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_abilityTitle_epic_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_abilityTitle_epic_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_abilityTitle_legendary_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_abilityTitle_legendary_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_abilityTitle_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_abilityTitle_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_abilityTitle_rare_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_abilityTitle_rare_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_abilityTitle_unique_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_abilityTitle_unique_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_epic_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_epic_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_legendary_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_legendary_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_rare_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_rare_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_unique_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_metierLine_activated_0_unique_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_metierLine_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_metierLine_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_4 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_5 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_6 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_7 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_8 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_9 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_x {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_y {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_y", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_attackPowerFont_z {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_attackPowerFont_z", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonability_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonability_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonability_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonability_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonability_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonability_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonability_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonability_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonfame_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonfame_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonfame_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonfame_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonfame_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonfame_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonfame_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonfame_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhelp_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhelp_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhelp_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhelp_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhelp_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhelp_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhelp_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhelp_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhyper_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhyper_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhyper_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhyper_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhyper_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhyper_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_buttonhyper_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_buttonhyper_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvasattackBack {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvasattackBack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvasattackFont {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvasattackFont", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvasdefenseFont {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvasdefenseFont", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvasforceCover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvasforceCover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvashighlightLong {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvashighlightLong", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvashighlightShort {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvashighlightShort", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvasmainStatFont {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvasmainStatFont", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvasutilityBack {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvasutilityBack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_canvasutilityFont {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_canvasutilityFont", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_canvasdisabledCover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_canvasdisabledCover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000400 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000400", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000401 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000401", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000402 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000402", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000403 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000403", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000404 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000404", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000405 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000405", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000406 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000406", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000409 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000409", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000410 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000410", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000412 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000412", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000413 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000413", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000414 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000414", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000416 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000416", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000419 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000419", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000420 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000420", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000421 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000421", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000422 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_HyperStat_Window_statList_80000422", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_Stat_1_titleImage {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_Stat_1_titleImage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_Stat_1_titleImageDF {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_Stat_1_titleImageDF", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_Stat_1_titleImageSE {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_Stat_1_titleImageSE", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_Stat_1_titleImageTF {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_Stat_1_titleImageTF", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonclose_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonclose_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonclose_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonclose_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonclose_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonclose_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonclose_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonclose_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonguild_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonguild_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonguild_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonguild_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonguild_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonguild_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonguild_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonguild_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonmyhome_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonmyhome_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonmyhome_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonmyhome_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonmyhome_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonmyhome_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttonmyhome_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttonmyhome_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttontoggleDetail_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttontoggleDetail_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttontoggleDetail_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttontoggleDetail_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttontoggleDetail_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttontoggleDetail_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_buttontoggleDetail_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_buttontoggleDetail_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_canvasblackList {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_canvasblackList", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_canvasmarry {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_canvasmarry", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_common_main_layername {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_common_main_layername", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_0_icon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_0_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_1_icon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_1_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_1_image_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_1_image_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_2_icon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_2_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_2_image_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_2_image_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_3_icon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_3_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_3_image_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_3_image_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_4_icon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_4_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_4_image_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_4_image_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_5_icon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_5_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_5_image_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_5_image_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_6_icon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_6_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_customBackground_6_image_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_customBackground_6_image_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detail_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detail_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detail_layerstat {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detail_layerstat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_ability_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_ability_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_ability_buttonreset_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_ability_buttonreset_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_ability_buttonreset_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_ability_buttonreset_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_ability_buttonreset_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_ability_buttonreset_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_ability_buttonreset_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_ability_buttonreset_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_backgrnd1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_backgrnd1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_mouseOver_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAuto_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_disabled" +
+                        "_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_mouseOve" +
+                        "r_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_normal_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoDex_pressed_" +
+                        "0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_disabled" +
+                        "_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_mouseOve" +
+                        "r_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_normal_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoStr_pressed_" +
+                        "0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_disab" +
+                        "led_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_mouse" +
+                        "Over_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_norma" +
+                        "l_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon1_press" +
+                        "ed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_disab" +
+                        "led_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_mouse" +
+                        "Over_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_norma" +
+                        "l_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon2_press" +
+                        "ed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_disab" +
+                        "led_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_mouse" +
+                        "Over_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_norma" +
+                        "l_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonapDistribution_buttonapAutoXenon3_press" +
+                        "ed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentNum {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentNum", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentNum1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentNum1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponConstant {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponConstant", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponExpertise {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponExpertise", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponType {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvascurrentWeaponType", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvasextraNum {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvasextraNum", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvaspercentNum {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvaspercentNum", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_AddonstatInfo_canvasstandardNum {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_AddonstatInfo_canvasstandardNum", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_animationapDistribution_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_animationapDistribution_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_animationapDistribution_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_animationapDistribution_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_animationapDistribution_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_animationapDistribution_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_animationapDistribution_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_animationapDistribution_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_animationapDistribution_4 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_animationapDistribution_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_animationapDistribution_5 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_animationapDistribution_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_animationapDistribution_6 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_animationapDistribution_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonapDistribution_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonapDistribution_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonapDistribution_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonapDistribution_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonapDistribution_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonapDistribution_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonapDistribution_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonapDistribution_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonlvUpHp_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonlvUpHp_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonlvUpHp_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonlvUpHp_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonlvUpHp_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonlvUpHp_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_buttonlvUpHp_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_buttonlvUpHp_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_canvascover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_canvascover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_canvasmainStatBack {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_canvasmainStatBack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_backgrnd0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_backgrnd0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_family_mori_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_family_mori_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_family_takeda_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_family_takeda_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_family_uesgi_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_family_uesgi_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_gauge_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_gauge_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_grade_f1_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_grade_f1_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_grade_f2_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_grade_f2_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_grade_f3_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_grade_f3_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_grade_f4_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_grade_f4_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_grade_f5_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_grade_f5_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_4 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_5 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_6 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_7 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_8 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_9 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_number_s {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_fame_number_s", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_backgrnd2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_backgrnd2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttoncancle_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_popUp_buttonokay_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_dis" +
+                        "abled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_mou" +
+                        "seOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_nor" +
+                        "mal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetApplication_pre" +
+                        "ssed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_checked_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_checked_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_mouseOver" +
+                        "_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage1_pressed_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_checked_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_checked_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_mouseOver" +
+                        "_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage2_pressed_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_checked_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_checked_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_mouseOver" +
+                        "_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonpresetPage3_pressed_0" +
+                        "", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_buttonreset_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_HyperStat_Window_presetSelected0_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_detailStat_HyperStat_Window_presetSelected0_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_canvashighlightCustom0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_canvashighlightCustom0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_canvashighlightCustom1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_canvashighlightCustom1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonclose_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonclose_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonclose_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonclose_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonclose_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonclose_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonclose_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonclose_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonconfirm_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonconfirm_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonconfirm_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonconfirm_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonconfirm_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonconfirm_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_buttonconfirm_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_buttonconfirm_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_canvascurrentBack {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_canvascurrentBack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_canvasselectedBack {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_canvasselectedBack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_canvasvacantIndex {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_canvasvacantIndex", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_base {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_local_main_customBackground_scrollslot_enabled_thumb2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_canvasprivacyCover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_canvasprivacyCover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_normal_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_normal_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_normal_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_normal_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_normal_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_normal_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_selected_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_selected_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_selected_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_selected_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_selected_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_selected_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detail_tabdetailTab_selected_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detail_tabdetailTab_selected_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailCash_canvascash {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailCash_canvascash", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_canvasmaxLv {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_canvasmaxLv", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_canvasslotCover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_canvasslotCover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_slotVector1_canvasslot {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_slotVector1_canvasslot", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_4 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_5 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_6 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_7 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_8 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_9 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_lv {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textDown_lv", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp__ {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_+", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_4 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_5 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_6 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_7 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_8 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_9 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_arcane {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_arcane", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_dex {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_dex", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_hp {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_hp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_int {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_int", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_luk {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_luk", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_str {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_ArcEquip_textUp_str", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_canvasgauge {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_canvasgauge", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_canvasmaxLv {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_canvasmaxLv", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_canvasslotCover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_canvasslotCover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_canvassymbolCover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_canvassymbolCover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_slotVector1_canvasslot {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_slotVector1_canvasslot", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_4 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_5 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_6 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_7 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_8 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_9 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_lv {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textDown_lv", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp__ {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_+", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_3 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_4 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_5 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_6 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_7 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_8 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_9 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_authentic {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_authentic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_dex {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_dex", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_hp {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_hp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_int {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_int", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_luk {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_luk", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_str {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_AutEquip_textUp_str", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipClose_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_buttonspecialEquipOpen_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_canvasdisabled {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_canvasdisabled", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_canvasequip {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_canvasequip", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_dragonEquip_canvasdragon {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_dragonEquip_canvasdragon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_hakuEquip_canvashaku {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_hakuEquip_canvashaku", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_mechanicEquip_canvasmechanic {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_mechanicEquip_canvasmechanic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_tabsymbolTab_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_tabsymbolTab_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_tabsymbolTab_normal_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_tabsymbolTab_normal_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_tabsymbolTab_selected_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_tabsymbolTab_selected_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_tabsymbolTab_selected_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_tabsymbolTab_selected_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailEquip_totemEquip_canvastotem {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailEquip_totemEquip_canvastotem", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_canvasskill {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_canvasskill", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_canvasskill0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_canvasskill0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_canvasskillBlank {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_canvasskillBlank", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_base {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_scrollslot_enabled_thumb2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_tabtypeTab_normal_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_1 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_2 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailSkill_tabtypeTab_selected_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailStat_ability_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailStat_ability_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailStat_canvascover {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailStat_canvascover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailStat_canvasmainStatBack {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailStat_canvasmainStatBack", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_detailStat_HyperStat_Window_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_detailStat_HyperStat_Window_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonexchange_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonexchange_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonexchange_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonexchange_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonexchange_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonexchange_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonexchange_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonexchange_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonmyhome_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonmyhome_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonmyhome_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonmyhome_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonmyhome_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonmyhome_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonmyhome_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonmyhome_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonparty_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonparty_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonparty_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonparty_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonparty_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonparty_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonparty_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonparty_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityDown_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityDown_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityDown_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityDown_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityDown_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityDown_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityDown_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityDown_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityUp_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityUp_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityUp_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityUp_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityUp_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityUp_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UICharacterInfo_img_remote_main_buttonpopularityUp_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UICharacterInfo_img_remote_main_buttonpopularityUp_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_0 {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_AddOption_0", resourceCulture);
@@ -4186,6 +7860,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Job_expand", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand2 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Job_expand2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5086,6 +8770,506 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_origin {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_origin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_arcane {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_arcane", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_number_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_number_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_numberRed_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_numberRed_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapArcaneForceUI_slash {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapArcaneForceUI_slash", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_authentic {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_authentic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_number_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_number_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_numberRed_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_numberRed_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapAuthenticForceUI_slash {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapAuthenticForceUI_slash", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_number_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_number_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_numberRed_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_numberRed_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow4_img_MapStarForceUI_star {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow4_img_MapStarForceUI_star", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
