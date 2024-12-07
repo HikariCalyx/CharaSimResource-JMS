@@ -8107,6 +8107,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Summary_incline_10digit_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Summary_incline_10digit_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_0 {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_0", resourceCulture);
