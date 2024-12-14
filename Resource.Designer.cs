@@ -3343,16 +3343,6 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        public static System.Drawing.Bitmap UI_UIMap_img_WorldMap_backgrnd {
-            get {
-                object obj = ResourceManager.GetObject("UI_UIMap_img_WorldMap_backgrnd", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         public static System.Drawing.Bitmap UICharacterInfo_img_common_detailStat_ability_abilityTitle_epic_0 {
             get {
                 object obj = ResourceManager.GetObject("UICharacterInfo_img_common_detailStat_ability_abilityTitle_epic_0", resourceCulture);
