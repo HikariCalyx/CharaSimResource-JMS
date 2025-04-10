@@ -173,6 +173,26 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_10 {
+            get {
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_10", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_11 {
+            get {
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_2 {
             get {
                 object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_2", resourceCulture);
@@ -246,30 +266,6 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_9 {
             get {
                 object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_9", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
-        public static System.Drawing.Bitmap CashShop_img_CashItem_label_10
-        {
-            get
-            {
-                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_10", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
-        public static System.Drawing.Bitmap CashShop_img_CashItem_label_11
-        {
-            get
-            {
-                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4185,7 +4181,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_normal {
             get {
@@ -4877,6 +4873,686 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_btm {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_fixed_btm", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_line {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_fixed_line", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_mid {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_fixed_mid", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_fixed_top {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_fixed_top", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_c {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_c", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_dotline {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_dotline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_e {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_n {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_n", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_ne {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_ne", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_nw {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_nw", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_s {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_s", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_se {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_se", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_sw {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_sw", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_frame_flexible_w {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_frame_flexible_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_base {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_ItemIcon_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_shade {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_ItemIcon_shade", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_box {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_common_box", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_category_e {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_common_category_e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_category_w {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_common_category_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_boxLucky_e {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_set_boxLucky_e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_boxLucky_w {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_set_boxLucky_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_btm {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_set_btm", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_line {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_set_line", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_mid {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_set_mid", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_set_top {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_set_top", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_equipped {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_equipped", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_1 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_a {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_b {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_sign {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_minus_sign", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_1 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_8 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_9 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_a {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_b {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_sign {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_imgFont_atkPow_plus_sign", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_additionalPotential_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_additionalPotential_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_bonusStat_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_bonusStat_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_exceptional_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_exceptional_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_epic {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_detail_epic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_legendary {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_detail_legendary", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_rare {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_detail_rare", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_detail_unique {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_detail_unique", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_title_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_scroll_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_scroll_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_set_guide {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_set_guide", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_set_lucky {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_set_lucky", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_set_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_set_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_soulWeapon_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_soulWeapon_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Skill_Frame_dotline_c {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Skill_Frame_dotline_c", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Skill_Frame_dotline_e {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Skill_Frame_dotline_e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Skill_Frame_dotline_w {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Skill_Frame_dotline_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_c {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMap_c", resourceCulture);
@@ -4973,14 +5649,12 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_c
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_c {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_c", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
@@ -5087,7 +5761,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_base {
             get {
