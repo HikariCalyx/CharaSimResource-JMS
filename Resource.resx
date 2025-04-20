@@ -658,9 +658,6 @@
   <data name="Equip_Android_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Equip.Android.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AdditionalOptionTooltip_epic" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\AdditionalOptionTooltip.epic.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="AdditionalOptionTooltip_legendary" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\AdditionalOptionTooltip.legendary.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -1866,5 +1863,38 @@
   </data>
   <data name="UIToolTipNew_img_Skill_Frame_dotline_w" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIToolTipNew.img.Skill.Frame.dotline_w.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_starForce_blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.starForce.blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_starForce_empty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.starForce.empty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_starForce_star" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.starForce.star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_frame_common_category_c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.frame.common.category.c.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_potential_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.potential.normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AdditionalOptionTooltip_epic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\AdditionalOptionTooltip.epic.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_potential_title_epic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.potential.title.epic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_potential_title_legendary" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.potential.title.legendary.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_potential_title_rare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.potential.title.rare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTipNew_img_Item_Equip_textIcon_potential_title_unique" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTipNew.img.Item.Equip.textIcon.potential.title.unique.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTip_img_Item_ItemIcon_canvas_Backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTip.img.Item.ItemIcon.canvas_Backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

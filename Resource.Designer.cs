@@ -4783,6 +4783,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_canvas_Backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_ItemIcon_canvas_Backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_ItemIcon_cover {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_ItemIcon_cover", resourceCulture);
@@ -5036,6 +5046,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_box {
             get {
                 object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_common_box", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_frame_common_category_c {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_frame_common_category_c", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5463,9 +5483,59 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_normal {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_epic {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_title_epic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_legendary {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_title_legendary", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_normal {
             get {
                 object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_title_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_rare {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_title_rare", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_potential_title_unique {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_potential_title_unique", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5516,6 +5586,36 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_soulWeapon_normal {
             get {
                 object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_soulWeapon_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_starForce_blue {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_starForce_blue", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_starForce_empty {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_starForce_empty", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Equip_textIcon_starForce_star {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Equip_textIcon_starForce_star", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
