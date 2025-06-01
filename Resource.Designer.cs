@@ -5653,6 +5653,26 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_ArcaneForce {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow_img_ToolTip_WorldMap_ArcaneForce", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_AuthenticForce {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow_img_ToolTip_WorldMap_AuthenticForce", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_Mob {
             get {
                 object obj = ResourceManager.GetObject("UIWindow_img_ToolTip_WorldMap_Mob", resourceCulture);
@@ -5666,6 +5686,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_Npc {
             get {
                 object obj = ResourceManager.GetObject("UIWindow_img_ToolTip_WorldMap_Npc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow_img_ToolTip_WorldMap_StarForce {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow_img_ToolTip_WorldMap_StarForce", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
