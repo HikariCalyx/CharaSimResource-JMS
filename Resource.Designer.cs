@@ -193,6 +193,36 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_12 {
+            get {
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_13 {
+            get {
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_13", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_14 {
+            get {
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_14", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_2 {
             get {
                 object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_2", resourceCulture);

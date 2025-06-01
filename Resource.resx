@@ -3211,4 +3211,13 @@
   <data name="UIToolTip_img_Item_ItemIcon_canvas_Backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIToolTip.img.Item.ItemIcon.canvas_Backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="CashShop_img_CashItem_label_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CashShop.img.CashItem_label.12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CashShop_img_CashItem_label_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CashShop.img.CashItem_label.13.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CashShop_img_CashItem_label_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CashShop.img.CashItem_label.14.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
