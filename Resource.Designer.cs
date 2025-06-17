@@ -2273,6 +2273,116 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_arrowup {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_arrowup", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_cluster {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_cluster", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_enchantportal {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_enchantportal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_eventnpc {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_eventnpc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_hiddenportal {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_hiddenportal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_mob_1 {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_mob_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_npc {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_npc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_portal {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_portal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_shop {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_shop", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_transport {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_transport", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap MapHelper_img_minimap_trunk {
+            get {
+                object obj = ResourceManager.GetObject("MapHelper_img_minimap_trunk", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap Stat_detail_abilityTitle_normal_0 {
             get {
                 object obj = ResourceManager.GetObject("Stat_detail_abilityTitle_normal_0", resourceCulture);
