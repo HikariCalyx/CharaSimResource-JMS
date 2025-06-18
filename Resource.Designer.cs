@@ -5173,6 +5173,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_base_custom {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_ItemIcon_base_custom", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_shade {
             get {
                 object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_ItemIcon_shade", resourceCulture);
