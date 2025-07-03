@@ -2263,16 +2263,6 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        public static System.Drawing.Bitmap PachinkoItem_0 {
-            get {
-                object obj = ResourceManager.GetObject("PachinkoItem_0", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_arrowup {
             get {
                 object obj = ResourceManager.GetObject("MapHelper_img_minimap_arrowup", resourceCulture);
@@ -2281,7 +2271,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_cluster {
             get {
@@ -2291,7 +2281,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_enchantportal {
             get {
@@ -2301,7 +2291,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_eventnpc {
             get {
@@ -2311,7 +2301,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_hiddenportal {
             get {
@@ -2321,7 +2311,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_mob_1 {
             get {
@@ -2331,7 +2321,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_npc {
             get {
@@ -2341,7 +2331,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_portal {
             get {
@@ -2351,7 +2341,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_shop {
             get {
@@ -2361,7 +2351,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_transport {
             get {
@@ -2371,7 +2361,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap MapHelper_img_minimap_trunk {
             get {
@@ -2381,7 +2371,17 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap PachinkoItem_0 {
+            get {
+                object obj = ResourceManager.GetObject("PachinkoItem_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_abilityTitle_normal_0 {
             get {
@@ -5223,16 +5223,6 @@ namespace CharaSimResource {
         
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_base_custom {
-            get {
-                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_ItemIcon_base_custom", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.Drawing.Bitmap UICharacterInfo_img_local_detailStat_fame_grade_f4_0 {
             get {
@@ -9107,6 +9097,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_base_custom {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_ItemIcon_base_custom", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTipNew_img_Item_Common_ItemIcon_shade {
             get {
                 object obj = ResourceManager.GetObject("UIToolTipNew_img_Item_Common_ItemIcon_shade", resourceCulture);
@@ -9970,6 +9970,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_w {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_ascent {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_ascent", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

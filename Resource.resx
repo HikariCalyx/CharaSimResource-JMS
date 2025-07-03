@@ -3271,4 +3271,7 @@
   <data name="UIToolTipNew_img_Item_Common_ItemIcon_base_custom" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIToolTipNew.img.Item.Common.ItemIcon.base.custom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UIWindow2_img_Skill_skillTypeIcon_ascent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow2.img.Skill.skillTypeIcon.ascent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
