@@ -183,6 +183,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_100 {
+            get {
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_100", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_11 {
             get {
                 object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_11", resourceCulture);
@@ -231,7 +241,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_2 {
             get {
