@@ -6433,6 +6433,46 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_1 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_base {
             get {
                 object obj = ResourceManager.GetObject("VScr9_disabled_base", resourceCulture);

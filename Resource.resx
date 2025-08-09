@@ -2068,4 +2068,16 @@
   <data name="Quest_img_Main_questInfo_summary_reward_layer_reward" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Quest.img.Main.questInfo.summary.reward.layer_reward.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UIWindow8_img_Title_TitleCategory_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow8_img_Title_TitleCategory_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow8_img_Title_TitleCategory_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow8_img_Title_TitleCategory_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
