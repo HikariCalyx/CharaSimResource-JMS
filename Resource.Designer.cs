@@ -103,6 +103,116 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo__ {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo__", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_0 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_1 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_2 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_3 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_4 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_5 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_6 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_7 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_8 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Basic_img_ItemNo_9 {
+            get {
+                object obj = ResourceManager.GetObject("Basic_img_ItemNo_9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap BtClose3_disabled_0 {
             get {
                 object obj = ResourceManager.GetObject("BtClose3_disabled_0", resourceCulture);
@@ -191,7 +301,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_11 {
             get {
@@ -241,7 +351,7 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.Drawing.Bitmap CashShop_img_CashItem_label_2 {
             get {
@@ -2402,6 +2512,236 @@ namespace CharaSimResource {
         
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_backgrnd_custom_bottom {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_backgrnd_custom_bottom", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_backgrnd_custom_center {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_backgrnd_custom_center", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_backgrnd_custom_top {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_backgrnd_custom_top", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_box_layer_boxL {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_summary_box_layer_boxL", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_box_layer_boxS {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_summary_box_layer_boxS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_canvas_detail {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_summary_canvas_detail", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_canvas_target {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_summary_canvas_target", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_reward_icon_exp {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_summary_reward_icon_exp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_reward_icon_meso {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_summary_reward_icon_meso", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_summary_reward_layer_reward {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_summary_reward_layer_reward", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Quest_img_Main_questInfo_title_layer_npcShadow {
+            get {
+                object obj = ResourceManager.GetObject("Quest_img_Main_questInfo_title_layer_npcShadow", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_0_0_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_0_0_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_0_1_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_0_1_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_0_2_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_0_2_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_0_3_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_0_3_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_1_0_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_1_0_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_1_1_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_1_1_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_2_0_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_2_0_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_3_0_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_3_0_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_3_1_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_3_1_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_3_2_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_3_2_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_99_0_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_99_0_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap QuestCategory_img_99_1_questUI_tag {
+            get {
+                object obj = ResourceManager.GetObject("QuestCategory_img_99_1_questUI_tag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.Drawing.Bitmap Stat_detail_abilityTitle_normal_0 {
             get {
@@ -10516,6 +10856,46 @@ namespace CharaSimResource {
         
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_1 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow8_img_Title_TitleCategory_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow8_img_Title_TitleCategory_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_base {
             get {

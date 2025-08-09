@@ -3280,4 +3280,118 @@
   <data name="CashShop_img_CashItem_label_100" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\CashShop.img.CashItem_label.100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="QuestCategory_img_0_0_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.0.0.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_0_1_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.0.1.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_0_2_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.0.2.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_0_3_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.0.3.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_1_0_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.1.0.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_1_1_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.1.1.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_2_0_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.2.0.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_3_0_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.3.0.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_3_1_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.3.1.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_3_2_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.3.2.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_backgrnd_custom_bottom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.backgrnd.custom.bottom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_backgrnd_custom_center" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.backgrnd.custom.center.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_backgrnd_custom_top" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.backgrnd.custom.top.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_summary_reward_icon_exp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.summary.reward.icon.exp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_summary_reward_icon_meso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.summary.reward.icon.meso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_title_layer_npcShadow" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.title.layer_npcShadow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_99_0_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.99.0.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="QuestCategory_img_99_1_questUI_tag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestCategory.img.99.1.questUI.tag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_summary_canvas_detail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.summary.canvas_detail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_summary_canvas_target" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.summary.canvas_target.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Basic_img_ItemNo__" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Basic.img.ItemNo.+.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_summary_box_layer_boxL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.summary.box.layer_boxL.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_summary_box_layer_boxS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.summary.box.layer_boxS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quest_img_Main_questInfo_summary_reward_layer_reward" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Quest.img.Main.questInfo.summary.reward.layer_reward.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow8_img_Title_TitleCategory_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow8_img_Title_TitleCategory_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow8_img_Title_TitleCategory_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow8_img_Title_TitleCategory_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow8.img.Title.TitleCategory.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
