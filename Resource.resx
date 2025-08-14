@@ -3406,4 +3406,67 @@
   <data name="UIWindow2_img_Quest_quest_info_summary_icon_select" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIWindow2.img.Quest.quest_info.summary_icon.select.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_bottom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.all.incomplete.bottom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_pattern" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.all.incomplete.pattern.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_all_incomplete_top" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.all.incomplete.top.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_epic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.basic.difficultyIcon.epic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_legendary" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.basic.difficultyIcon.legendary.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.basic.difficultyIcon.normal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_rare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.basic.difficultyIcon.rare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_basic_difficultyIcon_unique" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.basic.difficultyIcon.unique.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_mission_complete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.mission.mission_complete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_incomplete_bottom" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.mission.incomplete.bottom.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_achievement_pages_normalCategory_achievementForm_mission_mission_incomplete" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.achievement.pages.normalCategory.achievementForm.mission.mission_incomplete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIAchievement_img_numbers_scoreSmall_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIAchievement.img.numbers.scoreSmall.9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
