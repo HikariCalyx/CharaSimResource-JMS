@@ -7958,6 +7958,66 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_familiarCard_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_base {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_familiarCard_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_legendary {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_familiarCard_legendary", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_familiarCard_name {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_familiarCard_name", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_jewel_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_jewel_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_jewel_normal_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_jewel_normal_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_0 {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_AddOption_0", resourceCulture);
