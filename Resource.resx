@@ -3481,6 +3481,162 @@
   <data name="Unit_T" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Unit.T.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Familiar2025__InfoWnd_attribute_AttrVariation_Dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.attribute.AttrVariation.Dark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_attribute_AttrVariation_Fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.attribute.AttrVariation.Fire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_attribute_AttrVariation_Holy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.attribute.AttrVariation.Holy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_attribute_AttrVariation_Ice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.attribute.AttrVariation.Ice.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_attribute_AttrVariation_Lighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.attribute.AttrVariation.Lighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_attribute_AttrVariation_Poison" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.attribute.AttrVariation.Poison.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_attribute_base" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.attribute.base.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_back_familiar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.back_familiar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_back_spec" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.back_spec.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_button_Potential_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.button_Potential.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeJewel_info_common" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeJewel_info.common.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeName__0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeName.#0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeSide_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeSide.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Beast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Beast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Devil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Devil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Fish" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Fish.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Human" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Human.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Machine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Machine.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Nymph" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Nymph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Plant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Plant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Reptile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Reptile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_kind_KindVariation_Undead" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.kind.KindVariation.Undead.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_att" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.att.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_Attribute_AttrVariation_Dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.Attribute.AttrVariation.Dark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_Attribute_AttrVariation_Fire" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.Attribute.AttrVariation.Fire.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_Attribute_AttrVariation_Holy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.Attribute.AttrVariation.Holy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_Attribute_AttrVariation_Ice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.Attribute.AttrVariation.Ice.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_Attribute_AttrVariation_Lighting" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.Attribute.AttrVariation.Lighting.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_Attribute_AttrVariation_Poison" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.Attribute.AttrVariation.Poison.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_Attribute_base" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.Attribute.base.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_backgrnd2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.backgrnd2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_backgrnd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.backgrnd3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_bt_Addtional_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.bt_Addtional.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_def" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.def.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradegauge_info_base" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradegauge_info_base.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradejewel_info_common_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradejewel_info.common.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradename__0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradename.#0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradeside_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradeside.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradeside_graderank__0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradeside.graderank.#0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Beast" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Beast.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Devil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Devil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Fish" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Fish.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Human" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Human.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Machine" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Machine.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Nymph" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Nymph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Plant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Plant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Reptile" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Reptile.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_kind_KindVariation_Undead" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.kind.KindVariation.Undead.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_level_Lv_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.level.Lv..png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_level_lv_base" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.level.lv_base.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="UIFamiliar_img_familiarCard_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIFamiliar.img.familiarCard.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>

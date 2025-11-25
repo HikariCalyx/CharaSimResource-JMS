@@ -963,6 +963,526 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_att {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_att", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Dark {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_Dark", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Fire {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_Fire", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Holy {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_Holy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Ice {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_Ice", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Lighting {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_Lighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Poison {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_Poison", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_base {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_backgrnd2 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_backgrnd2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_backgrnd3 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_backgrnd3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_bt_Addtional_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_bt_Addtional_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_def {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_def", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_gradegauge_info_base {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_gradegauge_info_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_gradejewel_info_common_1 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_gradejewel_info_common_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_gradename__0 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_gradename__0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_gradeside_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_gradeside_graderank__0 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_gradeside_graderank__0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Beast {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Beast", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Devil {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Devil", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Fish {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Fish", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Human {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Human", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Machine {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Machine", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Nymph {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Nymph", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Plant {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Plant", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Reptile {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Reptile", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_kind_KindVariation_Undead {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_kind_KindVariation_Undead", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_level_Lv_ {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_level_Lv_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_level_lv_base {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_level_lv_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Dark {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_attribute_AttrVariation_Dark", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Fire {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_attribute_AttrVariation_Fire", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Holy {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_attribute_AttrVariation_Holy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Ice {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_attribute_AttrVariation_Ice", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Lighting {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_attribute_AttrVariation_Lighting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_AttrVariation_Poison {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_attribute_AttrVariation_Poison", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_attribute_base {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_attribute_base", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_back {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_back_familiar {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_back_familiar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_back_spec {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_back_spec", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_button_Potential_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_button_Potential_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeJewel_info_common {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_gradeJewel_info_common", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeName__0 {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_gradeName__0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_gradeSide_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_gradeSide_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Beast {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Beast", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Devil {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Devil", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Fish {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Fish", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Human {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Human", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Machine {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Machine", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Nymph {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Nymph", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Plant {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Plant", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Reptile {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Reptile", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap Familiar2025__InfoWnd_kind_KindVariation_Undead {
+            get {
+                object obj = ResourceManager.GetObject("Familiar2025__InfoWnd_kind_KindVariation_Undead", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap HyperStat_Window_backgrnd {
             get {
                 object obj = ResourceManager.GetObject("HyperStat_Window_backgrnd", resourceCulture);
