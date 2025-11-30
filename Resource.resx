@@ -3655,4 +3655,97 @@
   <data name="UIFamiliar_img_jewel_normal_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIFamiliar.img.jewel.normal.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Familiar2025__InfoWnd_gradeJewel_info_epic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeJewel_info.epic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeJewel_info_legendary" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeJewel_info.legendary.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeJewel_info_rare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeJewel_info.rare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeJewel_info_unique" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeJewel_info.unique.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeName__1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeName.#1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeName__2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeName.#2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeName__3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeName.#3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeName__4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeName.#4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeSide_graderank__0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeSide.graderank.#0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeSide_graderank__1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeSide.graderank.#1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeSide_graderank__2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeSide.graderank.#2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeSide_graderank__3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeSide.graderank.#3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar2025__InfoWnd_gradeSide_graderank__4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar2025.@InfoWnd.gradeSide.graderank.#4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradejewel_info_epic_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradejewel_info.epic.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradejewel_info_rare_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradejewel_info.rare.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradejewel_info_regendary_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradejewel_info.regendary.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradejewel_info_unique_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradejewel_info.unique.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradename__1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradename.#1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradename__2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradename.#2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradename__3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradename.#3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradename__4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradename.#4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradeside_graderank__01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradeside.graderank.#0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradeside_graderank__1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradeside.graderank.#1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradeside_graderank__2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradeside.graderank.#2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradeside_graderank__3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradeside.graderank.#3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_gradeside_graderank__4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.gradeside.graderank.#4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Familiar__InfoWnd_level_gauge_exp_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Familiar.@InfoWnd.level.gauge_exp.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_jewel_epic_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.jewel.epic.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_jewel_legendary_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.jewel.legendary.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_jewel_rare_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.jewel.rare.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_jewel_unique_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.jewel.unique.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
