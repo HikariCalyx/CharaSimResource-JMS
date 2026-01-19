@@ -11708,6 +11708,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Quest_Gauge2_frame {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Quest_Gauge2_frame", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Quest_quest_info_summary_icon_basic {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_Quest_quest_info_summary_icon_basic", resourceCulture);
