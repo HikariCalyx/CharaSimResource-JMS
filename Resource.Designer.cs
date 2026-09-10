@@ -1023,6 +1023,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_None {
+            get {
+                object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_None", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap Familiar__InfoWnd_Attribute_AttrVariation_Poison {
             get {
                 object obj = ResourceManager.GetObject("Familiar__InfoWnd_Attribute_AttrVariation_Poison", resourceCulture);
